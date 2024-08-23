@@ -18,3 +18,7 @@ From the analysis so far we understood that the discounts on food orders are res
 - A new average commission percentage based on profitable orders.
 - A new average discount percentage for profitable orders, that could serve as a guideline for what level of discount still allows for profitability.
 
+**From the analysis**:
+New Average Commission Percentage: 28.72%
+New Average Discount Percentage: 5.55%
+
