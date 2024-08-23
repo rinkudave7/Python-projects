@@ -22,3 +22,5 @@ From the analysis so far we understood that the discounts on food orders are res
 New Average Commission Percentage: 28.72%
 New Average Discount Percentage: 5.55%
 
+Based on this analysis, a strategy that aims for a commission rate closer to 30% and a discount rate around 6% could potentially improve profitability across the board.
+
