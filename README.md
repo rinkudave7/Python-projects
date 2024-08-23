@@ -1,5 +1,5 @@
 # Python-projects
-1. Food Delivery Cost and Profitability Analysis aims to provide insights into how profitable the food delivery service is on a per-order basis.
+1. **Food Delivery Cost and Profitability Analysis** aims to provide insights into how profitable the food delivery service is on a per-order basis.
 Below is the process I will follow for the task of Food Delivery Cost and Profitability Analysis:
 - Start by gathering comprehensive data related to all aspects of food delivery operations.
 - Clean the dataset for inconsistencies, missing values, or irrelevant information.
