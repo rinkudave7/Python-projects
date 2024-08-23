@@ -13,7 +13,7 @@ Below is the process I will follow for the task of Food Delivery Cost and Profit
 - Based on the analysis, here are the overall metrics for the food delivery operations:
   'Total Orders': 1000, 'Total Revenue': 126990, 'Total Costs': 161041.85, 'Total Profit': -34051.85
 
-**A New Strategy for Profits**
+**A New Strategy for Profits**: 
 From the analysis so far we understood that the discounts on food orders are resulting in huge losses. Now, we need to find a new strategy for profitability. We need to find a sweet spot for offering discounts and charging commissions. To find a sweet spot for commission and discount percentages, we can analyze the characteristics of profitable orders more deeply. Specifically, we need to look for:
 - A new average commission percentage based on profitable orders.
 - A new average discount percentage for profitable orders, that could serve as a guideline for what level of discount still allows for profitability.
